@@ -12,3 +12,22 @@ Node.js - Download Node
 
 npm install graph-data-structure -library
 
+File Description
+
+course4Group.json Reference Data
+
+course4Pref.json Student Preference List
+
+course4PrefFilteredd.json Filtered Input Data
+
+filter.js Filter Script
+
+prefUtil.js Utility Function
+
+preference.js Prederence Generator Script
+
+Running
+
+node filter.js
+
+node preference.js
